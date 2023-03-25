@@ -10,7 +10,7 @@ const MyHeader = () => {
       <Container className=" pb-lg-5 mb-lg-5">
         <Row className=" flex-column-reverse flex-lg-row z-1 pb-5 mb-lg-5 ">
           <Col lg={6} className=" pt-lg-5">
-            <div className="pt-5">
+            <div className="pt-5 text-center text-lg-start">
               <p className=" ff_inter fw_300 clr_blue fs_4xl">
                 Increased Efficiency
               </p>
